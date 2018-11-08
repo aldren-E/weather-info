@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.weatherinfo.app.config.WeatherAppProperties",
+      "name": "app.weather",
+      "type": "com.weatherinfo.app.config.WeatherAppProperties"
+    },
+    {
+      "sourceType": "com.weatherinfo.app.config.WeatherAppProperties",
+      "name": "app.weather.api",
+      "sourceMethod": "public com.weatherinfo.app.config.WeatherAppProperties.Api getApi() ",
+      "type": "com.weatherinfo.app.config.WeatherAppProperties$Api"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.weatherinfo.app.config.WeatherAppProperties$Api",
+      "name": "app.weather.api.key",
+      "type": "java.lang.String"
+    }
+  ]
+}

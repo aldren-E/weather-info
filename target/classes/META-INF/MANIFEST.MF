@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: weather-info
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: aldren
+Implementation-Vendor-Id: com.weather-info.app
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/weather-info
+Created-By: Maven Integration for Eclipse
+
